@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68864" started-at="2022-01-22T13:18:22Z" finished-at="2022-01-22T13:19:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68864" started-at="2022-01-22T13:18:22Z" finished-at="2022-01-22T13:19:31Z">
+      <class name="com.testCases.Test_Amazon">
+        <test-method status="PASS" signature="launchwebsite()[pri:0, instance:com.testCases.Test_Amazon@e25b2fe]" name="launchwebsite" is-config="true" duration-ms="18805" started-at="2022-01-22T13:18:03Z" finished-at="2022-01-22T13:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchwebsite -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.testCases.Test_Amazon@e25b2fe]" name="searchProduct" duration-ms="7241" started-at="2022-01-22T13:18:22Z" finished-at="2022-01-22T13:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="verifyProduct()[pri:1, instance:com.testCases.Test_Amazon@e25b2fe]" name="verifyProduct" duration-ms="2772" started-at="2022-01-22T13:18:30Z" finished-at="2022-01-22T13:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProduct -->
+        <test-method status="PASS" signature="addToCart()[pri:2, instance:com.testCases.Test_Amazon@e25b2fe]" name="addToCart" duration-ms="58781" started-at="2022-01-22T13:18:32Z" finished-at="2022-01-22T13:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="CloseChrome()[pri:0, instance:com.testCases.Test_Amazon@e25b2fe]" name="CloseChrome" is-config="true" duration-ms="1656" started-at="2022-01-22T13:19:31Z" finished-at="2022-01-22T13:19:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseChrome -->
+      </class> <!-- com.testCases.Test_Amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
