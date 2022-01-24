@@ -16,6 +16,8 @@ This Automation framework cover scenarios, for Amazon.in customer use-cases.
 - Scroll down the page until 'add to cart' button is visible
 - Click add to cart button and verify product is added in a cart
 
+![Image](Output.gif)
+
 ## Features
 
 - Project uses Maven build tool
@@ -28,6 +30,7 @@ This Automation framework cover scenarios, for Amazon.in customer use-cases.
 - Used Selenium commands 
 
 ## [Connect on LinkedIn](https://www.linkedin.com/in/monali-waykar-925b29129/)
+
 
 ## License
 
